@@ -9,6 +9,7 @@ A modern and responsive **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScr
 ---
 
 ## 📸 Preview
+<img width="1898" height="867" alt="Image" src="https://github.com/user-attachments/assets/66855ee8-39c2-496e-9749-9b4cf6f5be6f" />
 
 ---
 
